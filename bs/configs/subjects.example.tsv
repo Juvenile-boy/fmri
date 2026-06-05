@@ -1,0 +1,3 @@
+subject_id	func_input	t1_nii	events_tsv
+sub01	D:/bishe/data/sub01/run1	D:/bishe/data/sub01/t1.nii	D:/bishe/data/sub01/events.tsv
+sub02	D:/bishe/data/sub02/run1	D:/bishe/data/sub02/t1.nii	D:/bishe/data/sub02/events.tsv
